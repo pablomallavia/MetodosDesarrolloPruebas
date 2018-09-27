@@ -1,7 +1,7 @@
 Flan de peras al PX
 
 2 peras conferencia
-Azucar
+Stevia
 Leche
 Huevos
 Cardamomo
@@ -9,3 +9,4 @@ Cardamomo
 Pelar las peras
 Batir los huevos
 Mezclar todo con la leche y azucar
+
